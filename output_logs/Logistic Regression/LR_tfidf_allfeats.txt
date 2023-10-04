@@ -1,0 +1,33 @@
+10 parts created.
+[2, 3, 4, 5, 6, 7, 8, 9, 10] [1]
+(2276, 2308)
+LogisticRegression(class_weight='balanced')
+[1, 3, 4, 5, 6, 7, 8, 9, 10] [2]
+(2283, 2307)
+LogisticRegression(class_weight='balanced')
+[1, 2, 4, 5, 6, 7, 8, 9, 10] [3]
+(2261, 2281)
+LogisticRegression(class_weight='balanced')
+[1, 2, 3, 5, 6, 7, 8, 9, 10] [4]
+(2255, 2290)
+LogisticRegression(class_weight='balanced')
+[1, 2, 3, 4, 6, 7, 8, 9, 10] [5]
+(2282, 2304)
+LogisticRegression(class_weight='balanced')
+[1, 2, 3, 4, 5, 7, 8, 9, 10] [6]
+(2302, 2287)
+LogisticRegression(class_weight='balanced')
+[1, 2, 3, 4, 5, 6, 8, 9, 10] [7]
+(2280, 2325)
+LogisticRegression(class_weight='balanced')
+[1, 2, 3, 4, 5, 6, 7, 9, 10] [8]
+(2297, 2321)
+LogisticRegression(class_weight='balanced')
+[1, 2, 3, 4, 5, 6, 7, 8, 10] [9]
+(2240, 2283)
+LogisticRegression(class_weight='balanced')
+[1, 2, 3, 4, 5, 6, 7, 8, 9] [10]
+(2087, 2099)
+LogisticRegression(class_weight='balanced')
+Average F1 score: 76.19%
+Sentiment F1 scores: Neutral: 29.45%, Positive: 82.60%, Negative: 62.41%

@@ -1,0 +1,5 @@
+10 parts created.
+[2, 3, 4, 5, 6, 7, 8, 9, 10] [1]
+RandomForestClassifier(class_weight='balanced')
+Average F1 score: 62.05%
+Sentiment F1 scores: Neutral: 0.00%, Positive: 82.51%, Negative: 16.67%
